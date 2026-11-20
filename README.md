@@ -58,6 +58,17 @@
 <tr>
 <td align="center"><b>Tools</b></td>
 <td><img src="https://skillicons.dev/icons?i=vscode,figma,postman,arduino,sublime,eclipse" /></td>
+<tr>
+<td align="center"><b>AI Tools</b></td>
+<td>
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude-color.png" height="40" title="Claude" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/cursor.png" height="40" title="Cursor" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/openai.png" height="40" title="ChatGPT" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/grok.png" height="40" title="Grok" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/kiro.png" height="40" title="Kiro" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/opencode.png" height="40" title="OpenCode" />
+  <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" height="40" title="Antigravity" />
+</td>
 </tr>
 <tr>
 <td align="center"><b>Operating System</b></td>
